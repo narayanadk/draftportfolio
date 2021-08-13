@@ -20,13 +20,6 @@ header{
     z-index: 1;
 }
 
-.header-logo {
-    padding-left: 83px;
-    padding-top: 8px;
-    height: 45px;
-    width: 150px;
-}
-
 nav {
     float: right;
     height: 57px;
